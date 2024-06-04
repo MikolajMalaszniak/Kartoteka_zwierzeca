@@ -29,7 +29,7 @@ source .venv/bin/activate
 ```
 #### Windows
 ```
-source .venv/Scripts/activate
+source .venv\Scripts\activate
 ```
 Upgrade pip to avoid installation difficulties
 ```
